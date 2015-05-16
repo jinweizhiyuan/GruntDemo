@@ -1,0 +1,23 @@
+{
+  "name": "GruntDemo",
+  "version": "1.0.0",
+  "description": "GruntDemo desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GruntDemo"
+  },
+  "keywords": [
+    "GruntDemo",
+    "key"
+  ],
+  "author": "jinweizhiyuan",
+  "license": "isc",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "^0.10.0"
+  }
+}
